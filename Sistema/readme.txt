@@ -1,0 +1,1 @@
+Nessa pasta devem estar os arquivos referente à aplicação (fontes, bibliotecas externas, etc.)
